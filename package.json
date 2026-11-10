@@ -1,0 +1,13 @@
+{
+  "name": "sistema-clinica-veterinaria",
+  "version": "1.0.0",
+  "description": "Sistema simples para gerenciar animais, funcionarios e consultas de uma clinica veterinaria.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
